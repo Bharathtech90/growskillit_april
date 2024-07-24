@@ -1,2 +1,6 @@
 MASTER
+<<<<<<< HEAD
 MASTER
+=======
+LOGIN
+>>>>>>> login
